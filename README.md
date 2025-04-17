@@ -55,9 +55,15 @@ In this scenario, David reviewed a submitted ticket, assigned it to John, and up
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YJZTNXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  <p>
+<img src="https://i.imgur.com/CldyEBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Effective communication is essential when resolving tickets. Clear and consistent updates should be maintained between team members and the affected users to ensure transparency and accountability. As tickets are submitted, they may involve a variety of issues and are assigned accordingly to the appropriate personnel for resolution.
+
+Additionally, thorough documentation is critical for maintaining an efficient and scalable support system. Each ticket should be well-documented to serve as a reference point for future incidents, especially when similar issues arise. This not only supports knowledge sharing but also improves response times and solution accuracy across the team.
 <br />
