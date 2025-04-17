@@ -41,10 +41,16 @@ For this lab, two tickets have been created to simulate a range of issues common
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nxk3mn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/Rjs2G3H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Admin Panel, administrators can view incoming ticket requests as they are submitted by users. Once received, administrators have the ability to assign tickets to individual agents or appropriate teams based on the nature of the issue. Additionally, they can evaluate the severity level of each ticket and apply the corresponding SLA policy to ensure timely resolution.
+
+In this scenario, David reviewed a submitted ticket, assigned it to John, and updated its severity level to a Sev-C, because only 2 people were affected instead of the whole department.
 </p>
 <br />
 
